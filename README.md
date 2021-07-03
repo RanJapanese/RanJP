@@ -1,0 +1,2 @@
+# RanJP
+Japanese
